@@ -166,6 +166,20 @@ Post-processing is optional but may improve estimation accuracy perception.
 
 ---
 
+## Reference Hardware
+
+The Honest Agile Estimator is implemented as a standards-compliant ten-sided estimation device.
+
+![The Honest Agile Estimator](./assets/agile-die-01.png)
+
+The reference implementation shown above has been optimized for:
+- High estimation throughput
+- Low meeting overhead
+- Excellent cross-functional team compatibility
+- Deterministic compliance with the Fibonacci estimation scale
+
+---
+
 ## Accuracy Statement
 
 Internal testing demonstrates that The Honest Agile Estimator consistently produces estimates within the accepted Fibonacci scale and achieves 100% compliance with the selected estimation framework.
